@@ -2,13 +2,13 @@ Go back [home](index.md)
 
 ## Installing VS Code
 
-Visit https://code.visualstudio.com/download to download VS Code.
+Visit [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download VS Code.
 
 ![Download Page](assets/week2/download-vs-code.png)
 
 ## SSH to ieng6
 
-- Visit https://sdacs.ucsd.edu/~icc/index.php or https://sdacs.ucsd.edu/cgi-bin/alloc-query to check the username and change password
+- Visit [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) or [https://sdacs.ucsd.edu/cgi-bin/alloc-query](https://sdacs.ucsd.edu/cgi-bin/alloc-query) to check the username and change password
 - Already have SSH installed, but if on windows, [install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 - Use the following command to ssh in
 
