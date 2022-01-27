@@ -1,5 +1,7 @@
 Go back [home](index.md)
 
+# Week 2
+
 ## Installing VS Code
 
 Visit [https://code.visualstudio.com/download](https://code.visualstudio.com/download) to download VS Code.
