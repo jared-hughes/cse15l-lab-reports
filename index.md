@@ -8,3 +8,4 @@ Or check out:
 - the [week 4 lab report](week4.md)
 - the [week 6 lab report](week6.md)
 - the [week 8 lab report](week8.md)
+- the [week 10 lab report](week10.md)
